@@ -16,6 +16,7 @@ Elyne Cyber est un service distinct d'**EAS Défense**. Des essais ont vérifié
 
 - [Architecture et domaines de confiance](docs/architecture.md)
 - [Essais et limites](docs/evidence.md)
+- [Droits et conditions de consultation](NOTICE.md)
 - [EAS Défense](https://github.com/deharoalexandre-cyber/EAS-Defense)
 
 Les sources Cyber du candidat R45 sont conservées dans le dépôt privé EAS. Ce dépôt public présente la famille sans exposer le code, la politique de défense, les règles d'attaque ni les traces du laboratoire. [Contacter Elyne Corp](mailto:admin@elynecorp.fr) · [Catalogue](https://elynecorp.fr/).

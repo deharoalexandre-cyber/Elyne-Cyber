@@ -16,6 +16,7 @@ Elyne Cyber runs as a service separate from **EAS Defense**. Tests have shown fu
 
 - [Architecture and trust domains](docs/architecture.en.md)
 - [Tests and limitations](docs/evidence.en.md)
+- [Rights and viewing terms](NOTICE.md)
 - [EAS Defense](https://github.com/deharoalexandre-cyber/EAS-Defense)
 
 R45 Cyber source is retained in the private EAS repository. This public repository presents the product family without exposing code, defense policy, attack rules, or laboratory traces. [Contact Elyne Corp](mailto:admin@elynecorp.fr) · [Catalog](https://elynecorp.com/).
