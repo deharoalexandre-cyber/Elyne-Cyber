@@ -2,6 +2,9 @@
 
 **English · [Français](README.md)**
 
+**Proprietary documentation — all rights reserved.** No reuse beyond GitHub platform functions is authorized without the rights holders' written consent. [Rights notice](NOTICE.md).
+[Elyne Corp product map](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 Elyne Cyber combines **local defense** with adversarial training editions. The defense service observes system signals, evaluates them against its policy, and applies bounded responses. Models may contribute to analysis; action authorization remains deterministic.
 
 | Edition | Role | Website positioning |

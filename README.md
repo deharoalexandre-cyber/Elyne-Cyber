@@ -2,6 +2,9 @@
 
 **Français · [English](README.en.md)**
 
+**Documentation propriétaire — tous droits réservés.** Aucun réemploi hors des fonctions de GitHub n'est autorisé sans l'accord écrit des titulaires des droits. [Notice de droits](NOTICE.md).
+[Carte des produits Elyne Corp](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 Elyne Cyber réunit une **défense locale** et des déclinaisons d'entraînement adversarial. Le service défensif observe des signaux du système, les confronte à sa politique et applique des réponses bornées. Les modèles peuvent contribuer à l'analyse ; l'autorisation des actions reste déterministe.
 
 | Déclinaison | Rôle | Présentation du site |
