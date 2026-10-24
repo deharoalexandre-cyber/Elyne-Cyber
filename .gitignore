@@ -1,0 +1,12 @@
+# Documentation-only publication: opt in to reviewed text files.
+*
+!README.md
+!README.en.md
+!NOTICE.md
+!.gitignore
+!docs/
+docs/*
+!docs/architecture.md
+!docs/architecture.en.md
+!docs/evidence.md
+!docs/evidence.en.md
